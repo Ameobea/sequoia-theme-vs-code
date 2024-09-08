@@ -465,8 +465,7 @@
     {
       "scope": ["comment"],
       "settings": {
-        "foreground": "#43444D",
-        "fontStyle": "italic"
+        "foreground": "#43444D"
       }
     },
     {
@@ -505,8 +504,7 @@
     {
       "scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
       "settings": {
-        "foreground": "#E2E4ED",
-        "fontStyle": "italic"
+        "foreground": "#E2E4ED"
       }
     },
     {
@@ -542,8 +540,7 @@
     {
       "scope": "meta.directive.vue",
       "settings": {
-        "foreground": "#E2E4ED",
-        "fontStyle": "italic"
+        "foreground": "#E2E4ED"
       }
     },
     {
@@ -615,15 +612,13 @@
     {
       "scope": ["support.function"],
       "settings": {
-        "foreground": "#999EB2",
-        "fontStyle": "italic"
+        "foreground": "#999EB2"
       }
     },
     {
       "scope": ["variable"],
       "settings": {
-        "foreground": "#B6BAC8",
-        "fontStyle": "italic"
+        "foreground": "#B6BAC8"
       }
     },
     {
